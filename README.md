@@ -1,4 +1,4 @@
-This repository is part of the Master project "Characterization of volatility regimes in stock markets with machine learning" developed by Maitane Sáez.
+This repository is part of the Master project "Characterization of volatility regimes in stock markets with machine learning" developed by Maitane Sáez as a student of the Big Data Analytics Master's degree of University Carlos III of Madrid.
 
 This repository contains the following files:
 - The files '^IBEX.csv', '^FCHI.csv' and '^N225.csv.csv' contain the historical data of the IBEX 35, CAC 40 and Nikkei 225 indexes, respectively. This have been obtained by accessing Yahoo Finance.
